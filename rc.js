@@ -1,6 +1,6 @@
 ;(function(){
   
-	var icon = '<svg class="sg" xmlns="http://www.w3.org/2000/svg"
+	var icon = <svg class="sg" xmlns="http://www.w3.org/2000/svg"
  width="357.000000pt" height="355.000000pt" viewBox="0 0 357.000000 355.000000"
  preserveAspectRatio="xMidYMid meet">
 
